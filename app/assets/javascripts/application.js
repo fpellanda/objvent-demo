@@ -12,4 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require objvent/main
+//= require app
 //= require_tree .
+//= require websocket_rails/main
